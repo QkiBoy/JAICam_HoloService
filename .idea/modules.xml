@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Frontis/.idea/Frontis.iml" filepath="$PROJECT_DIR$/../Frontis/.idea/Frontis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HoloVision_JAICam/.idea/HoloVision_JAICam.iml" filepath="$PROJECT_DIR$/../HoloVision_JAICam/.idea/HoloVision_JAICam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAICam_HoloService.iml" filepath="$PROJECT_DIR$/.idea/JAICam_HoloService.iml" />
+    </modules>
+  </component>
+</project>
